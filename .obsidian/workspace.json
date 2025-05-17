@@ -188,13 +188,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "8bb17d32d6a436af",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Current Attribute API.md",
+    "6 - Main Notes",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags",
+    "2 - Source Materials",
+    "1 - Rough Notes",
+    "Untitled.canvas",
     "Device Status API.md",
     "Java/Java.md",
     "L1",
