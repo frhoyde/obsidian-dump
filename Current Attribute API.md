@@ -1,3 +1,16 @@
+*Host* - Silicon Parser
+
+*Endpoint*
+`/attributes/currentAttributes`
+
+*Request Type*
+
+```Json
+{
+	"txId":"abcd",
+	"imeiList": ["867232055980248", "867232055968466", "867232055731245"]
+}
+```
 
 *Response Type*
 
