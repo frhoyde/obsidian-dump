@@ -3,11 +3,23 @@
 		- Engine Lock / unlock
 	- OBD
 		- Car Status
+	- Wired + OBD
+		- Last Data Retrieve Time
+		- Device offline or Online
+		- Last Event (New API Needed)
+	- 
 - MQTT
 	- Gas Detector
+		- Last Data
+		- Last Retrieve Time
+		- Last Event
 	- Socket
+		- Last Retrieve Time
+		- Last Event
 - Tuya
 	- Switch
+		- 
 	- Smoke Detector
 - CC Camera
+- Attendance
 - 
