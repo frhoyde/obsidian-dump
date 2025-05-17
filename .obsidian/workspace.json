@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Attribute API.md",
+                "file": "L1/Current Attribute API.md",
                 "mode": "source",
                 "source": false
               },
@@ -155,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "L1/Current Attribute API.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Current Attribute API"
             }
           },
           {
@@ -192,10 +193,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8bb17d32d6a436af",
+  "active": "0f930194a9ba6f27",
   "lastOpenFiles": [
-    "Device Status API.md",
-    "Current Attribute API.md",
+    "L1/Current Attribute API.md",
+    "L1/Device Status API.md",
     "6 - Main Notes",
     "5 - Templates",
     "4 - Indexes",

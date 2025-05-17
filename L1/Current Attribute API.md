@@ -1,9 +1,12 @@
-*Host* - Silicon Parser
+## *Host*
 
-*Endpoint*
+`Silicon Parser`
+
+## *Endpoint*
 `/attributes/currentAttributes`
 
-*Request Type*
+
+## *Request Type*
 
 ```Json
 {
@@ -12,7 +15,7 @@
 }
 ```
 
-*Response Type*
+## *Response Type*
 
 ```Json
 {
@@ -60,3 +63,6 @@
     }
 }
 ```
+
+## *Breakdown*
+
