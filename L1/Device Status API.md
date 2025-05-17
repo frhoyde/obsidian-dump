@@ -7,7 +7,7 @@
 		- Last Retrieve Time
 		- Last Data
 		- Device offline or Online
-		- Last Event (New API Needed)
+		- Last 5 Events (New API Needed)
 - MQTT
 	- Gas Detector
 		- Last Data
