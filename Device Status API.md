@@ -3,7 +3,7 @@
 		- Engine Lock / unlock
 	- OBD
 		- Car Status
-	- Wired + OBD
+	- Wired + OBD - Calls [[Current Attribute API]]
 		- Last Retrieve Time
 		- Last Data
 		- Device offline or Online
