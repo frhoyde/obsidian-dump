@@ -25,10 +25,14 @@
             "id": "8bb17d32d6a436af",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Current Status API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Current Status API"
             }
           }
         ],
@@ -187,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bb17d32d6a436af",
+  "active": "0f930194a9ba6f27",
   "lastOpenFiles": [
     "Current Status API.md",
     "Java/Java.md",

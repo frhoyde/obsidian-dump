@@ -4,17 +4,19 @@
 	- OBD
 		- Car Status
 	- Wired + OBD
-		- Last Data Retrieve Time
+		- Last Retrieve Time
+		- Last Data
 		- Device offline or Online
 		- Last Event (New API Needed)
-	- 
 - MQTT
 	- Gas Detector
 		- Last Data
 		- Last Retrieve Time
+		- Device offline or Online
 		- Last Event
 	- Socket
 		- Last Retrieve Time
+		- Device offline or Online
 		- Last Event
 - Tuya
 	- Switch
