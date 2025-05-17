@@ -18,8 +18,10 @@
 		- Last Event
 - Tuya
 	- Switch
-		- 
+		- Last Retrieve Time
+		- Last Event
 	- Smoke Detector
+		- Last Retrieve Time
+		- Last Event
 - CC Camera
 - Attendance
-- 
