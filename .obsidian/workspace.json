@@ -193,10 +193,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0f930194a9ba6f27",
+  "active": "8bb17d32d6a436af",
   "lastOpenFiles": [
-    "L1/Current Attribute API.md",
     "L1/Device Status API.md",
+    "L1/Current Attribute API.md",
+    "L1/Silicon Parser.md",
     "6 - Main Notes",
     "5 - Templates",
     "4 - Indexes",

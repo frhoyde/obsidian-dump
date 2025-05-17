@@ -1,10 +1,10 @@
 ## *Host*
 
-`Silicon Parser`
+[[Silicon Parser]]
 
 ## *Endpoint*
-`/attributes/currentAttributes`
 
+`/attributes/currentAttributes`
 
 ## *Request Type*
 
@@ -66,3 +66,38 @@
 
 ## *Breakdown*
 
+| Field            | Type     | Description                                           |
+|------------------|----------|-------------------------------------------------------|
+| imei             | String   | Vehicle/Device Unique ID                              |
+| latitude         | Float    | Location latitude                                     |
+| longitude        | Float    | Location longitude                                    |
+| locationTime     | String   | Time of location retrieval (Format: `YYYY-MM-DD HH:mm:ss`) |
+| speed            | Float    | Vehicle speed                                         |
+| ignition         | Boolean  | If the engine is on                                   |
+| motion           | Boolean  | If the vehicle is in motion                           |
+| batteryLevel     | Float    | Battery level                                         |
+| obdOdometer      | Int      | Odometer information                                  |
+| tripFuel         | Float    | Trip fuel consumption                                 |
+| tripOdometer     | Long     | Trip total distance                                   |
+| fuel             | Float    | Fuel level                                            |
+| fuelConsumption  | Float    | Fuel consumption rate                                 |
+| rpm              | Float    | Engine RPM                                            |
+| engineLoad       | Null     | Engine load                                           |
+| power            | Null     | Power output                                          |
+| eventStatus      | String   | Event status (e.g., "deviceOffline")                  |
+| lastEvent        | String   | Last event (e.g., "deviceOffline")                    |
+| lastEventTime    | String   | Last event timestamp                                  |
+| coolantTemp      | Null     | Coolant temperature                                   |
+| airTemp          | Null     | Air temperature                                       |
+| intakePressure   | Null     | Intake pressure                                       |
+| throttle         | Null     | Throttle position                                     |
+| fuelUsed         | Null     | Total fuel used                                       |
+| course           | Float    | GPS course heading                                    |
+| satellite        | Null     | Satellite data                                        |
+| validity         | Boolean  | If the location data is valid                         |
+| gsmSignal        | String   | Signal strength                                       |
+| altitude         | Float    | Altitude                                              |
+| totalDistance    | Float    | Total distance traveled                               |
+| address          | String   | Human-readable location                               |
+| sensorTemperature| Null     | Sensor temperature                                    |
+| poiDetails       | Null     | Point of interest details                             |
