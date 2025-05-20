@@ -60,8 +60,8 @@ Params: {
 
 ## *Breakdown*
 
-Customer Details Summary API - phoneNumber, userType, userEmail, billingType, totalOrders, totalDevices, solutions
+Customer Details Summary API - Customer Details, CustomerOrderTypeAndCount, BillingType ("Prepaid" if user_type == "b2c" else "Postpaid")
 
-Devices Solutions Summary API - CustomerOrderTypeAndCount
+[[Devices And Solutions Summary API]] - CustomerOrderTypeAndCount
 
 Device Installation Summary API - CustomerOrderStatus
