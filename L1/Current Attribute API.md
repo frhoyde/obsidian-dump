@@ -101,3 +101,7 @@
 | address          | String   | Human-readable location                               |
 | sensorTemperature| Null     | Sensor temperature                                    |
 | poiDetails       | Null     | Point of interest details                             |
+
+## Tags
+
+#API

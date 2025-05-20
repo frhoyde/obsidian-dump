@@ -81,10 +81,14 @@
             "id": "31f1b1c2b29f145a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "L1/Devices And Solutions Summary API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Devices And Solutions Summary API"
             }
           }
         ],
@@ -245,15 +249,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "31f1b1c2b29f145a",
+  "active": "0f930194a9ba6f27",
   "lastOpenFiles": [
+    "L1/Device Status API.md",
+    "L1/Current Attribute API.md",
     "L1/Alo Assist.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "L1/Installation Summary API.md",
     "L1/Devices And Solutions Summary API.md",
     "L1/Customer Summary API.md",
     "L1/Customer Details Summary API.md",
-    "L1/Current Attribute API.md",
-    "L1/Device Status API.md",
     "L1/Silicon Parser.md",
     "Untitled",
     "Java/Java.md",
@@ -263,11 +269,9 @@
     "3 - Tags",
     "2 - Source Materials",
     "1 - Rough Notes",
-    "Untitled.canvas",
     "L1",
     "Welcome.md",
     "Java",
-    "create a link.md",
-    "Untitled 1.canvas"
+    "create a link.md"
   ]
 }

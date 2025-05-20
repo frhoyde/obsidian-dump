@@ -65,3 +65,7 @@ Params: {
 [[Devices And Solutions Summary API]] - CustomerOrderTypeAndCount
 
 [[Installation Summary API]]- CustomerOrderStatus
+
+## Tags
+
+#API 
