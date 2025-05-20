@@ -1,6 +1,6 @@
 ## *Host*
 
-[[Silicon Parser]]
+[[Alo Assist]]
 
 ## *Endpoint*
 

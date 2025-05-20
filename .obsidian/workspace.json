@@ -69,16 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1/Customer Details Summary API.md",
+                "file": "L1/Current Attribute API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Customer Details Summary API"
+              "title": "Current Attribute API"
+            }
+          },
+          {
+            "id": "31f1b1c2b29f145a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -235,13 +245,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0f930194a9ba6f27",
+  "active": "31f1b1c2b29f145a",
   "lastOpenFiles": [
+    "L1/Alo Assist.md",
     "L1/Installation Summary API.md",
+    "L1/Devices And Solutions Summary API.md",
+    "L1/Customer Summary API.md",
     "L1/Customer Details Summary API.md",
     "L1/Current Attribute API.md",
-    "L1/Customer Summary API.md",
-    "L1/Devices And Solutions Summary API.md",
     "L1/Device Status API.md",
     "L1/Silicon Parser.md",
     "Untitled",

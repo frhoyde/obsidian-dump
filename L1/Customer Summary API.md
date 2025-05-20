@@ -1,6 +1,6 @@
 ## *Host*
 
-[[Silicon Parser]]
+[[Alo Assist]]
 
 ## *Endpoint*
 
@@ -60,7 +60,7 @@ Params: {
 
 ## *Breakdown*
 
-Customer Details Summary API - Customer Details, CustomerOrderTypeAndCount, BillingType ("Prepaid" if user_type == "b2c" else "Postpaid")
+[[Customer Details Summary API]] - Customer Details, CustomerOrderTypeAndCount, UserLastRecharge
 
 [[Devices And Solutions Summary API]] - CustomerOrderTypeAndCount
 
