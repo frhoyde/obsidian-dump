@@ -4,7 +4,7 @@
 
 ## *Endpoint*
 
-`/customer/devicesAndSolutionsSummary`
+`/customer/installationSummary`
 
 ## *Request Type*
 
@@ -22,15 +22,19 @@ Params: {
     "message": "suceess",
     "txId": "20250520-115121-3dbe4063",
     "data": {
-        "totalOrders": 8196,
-        "totalDevices": 8196,
-        "simBasedDevices": 4867,
-        "wifiBasedDevices": 2048,
-        "solutions": 0
+		"newOrders": 4609,
+		"firstContact": 256,
+		"scheduled": 259,
+		"onboarded": 1792,
+		"inProgress": 1280,
+		"completed": 0,
+		"cancelled": 0,
+		"packActivation": 256,
+		"simActivation": 256
     }
 }
 ```
 
 ## *Breakdown*
 
-totalOrders - Maps to Purchased Produs
+

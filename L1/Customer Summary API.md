@@ -64,4 +64,4 @@ Customer Details Summary API - Customer Details, CustomerOrderTypeAndCount, Bill
 
 [[Devices And Solutions Summary API]] - CustomerOrderTypeAndCount
 
-Device Installation Summary API - CustomerOrderStatus
+[[Installation Summary API]]- CustomerOrderStatus
