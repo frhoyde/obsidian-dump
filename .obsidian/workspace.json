@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,9 +179,9 @@
   },
   "active": "0f930194a9ba6f27",
   "lastOpenFiles": [
+    "6 - Main Notes/My First Note.md",
     "5 - Templates/Full Note.md",
     "conflict-files-obsidian-git.md",
-    "6 - Main Notes/My First Note.md",
     "6 - Main Notes",
     "5 - Templates",
     "4 - Indexes",
