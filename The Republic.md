@@ -13,3 +13,12 @@ The first thing that came to my mind, is the fact if Socrates believes in Bendis
 > Let us rise soon after supper and see this festival; there will be a gathering of young men, and we will have a good talk.
 
 This probably portrays how Polemarchus, Adeimantus were basically friends with Socrates. Adeimantus was the brother of Glaucon, who was with Socrates at the time as well. Cephalus is the father of Polemarchus, where this whole conversation takes place. 
+
+
+> To those who are not rich and are impatient of old age, the same reply may be made; for to the good poor man old age cannot be a light burden, nor can a bad rich man ever have peace with himself - *Cephalus*
+
+So the conversation moves towards Cephalus' old age, as Socrates was curious to get a "review" of the old age, or to some extent, how Old man Cephalus' is experiencing the **"Threshold of old age"** . Then the discussion lingers in the vicinity of if wealth makes it easier or if virtue does. Cephalus does agree with Socrates' that the contribution of circumstance also plays a role alongside virtue. Then Cephalus goes on talking about a possible after life.
+
+>’Hope cherishes the soul of him who lives in justice and holiness, and is the nurse of his age and the companion of his journey;– hope which is mightiest to sway the restless soul of man. - *Cephalus*
+
+That people of old age regardless of their background have a fear of approaching death, as the uncertainty of the existence of an afterlife may make one question his the life choices he has made his entire life. This eats him from within, if not, one is virtuous and just. The person who does not have the conscious of any sin/transgressions, hope comforts his soul. His clear conscience and his good life relaxes his being, which makes old age bearable and death approachable without fear.
