@@ -12,3 +12,4 @@ The first thing that came to my mind, is the fact if Socrates believes in Bendis
 
 > Let us rise soon after supper and see this festival; there will be a gathering of young men, and we will have a good talk.
 
+This probably portrays how Polemarchus, Adeimantus were basically friends with Socrates. Adeimantus was the brother of Glaucon, who was with Socrates at the time as well. Cephalus is the father of Polemarchus, where this whole conversation takes place. 
