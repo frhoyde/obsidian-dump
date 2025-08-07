@@ -22,3 +22,6 @@ So the conversation moves towards Cephalus' old age, as Socrates was curious to 
 >’Hope cherishes the soul of him who lives in justice and holiness, and is the nurse of his age and the companion of his journey;– hope which is mightiest to sway the restless soul of man. - *Cephalus*
 
 That people of old age regardless of their background have a fear of approaching death, as the uncertainty of the existence of an afterlife may make one question his the life choices he has made his entire life. This eats him from within, if not, one is virtuous and just. The person who does not have the conscious of any sin/transgressions, hope comforts his soul. His clear conscience and his good life relaxes his being, which makes old age bearable and death approachable without fear. Socrates gets amazed by these words.
+
+> Justice is the giving to each man what is proper to him, and this he termed a debt.
+
