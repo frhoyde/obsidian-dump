@@ -8,4 +8,7 @@
 
 > I went down yesterday to the Piraeus with [Glaucon](https://en.wikipedia.org/wiki/Glaucon) the son of Ariston, that I might offer up my prayers to the goddess ([Bendis, the Thracian Artemis.](https://en.wikipedia.org/wiki/Bendis));
 
-The first thing that came to my mind, is the fact if Socrates believes in Bendis. As per my readings so far, Socrates believed in Athenian Gods with his own take (daimonion).  But **Socrates did participate in the ritual** and says he prayed to Bendis. 
+The first thing that came to my mind, is the fact if Socrates believes in Bendis. As per my readings so far, Socrates believed in Athenian Gods with his own take (daimonion).  But **Socrates did participate in the ritual** and says he prayed to Bendis. So My question arises as to how does Socrates' mind comprehend his faith? Was he loyal to his faith? With very little research, I think probably not. Let's move on.
+
+> Let us rise soon after supper and see this festival; there will be a gathering of young men, and we will have a good talk.
+

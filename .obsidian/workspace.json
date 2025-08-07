@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5716c56a40727720",
+  "active": "485a22efb3001100",
   "lastOpenFiles": [
     "5 - Templates/Source Material Entry.md",
     "The Republic.md",
