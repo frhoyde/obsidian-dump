@@ -32,3 +32,4 @@ So, Polemarchus while quoting Simonides, is trying to define Justice. At first h
 This dialogue pushes Polemarchus to define the "Giving what is proper" and "To Whom" part. 
 
 > And when you want to keep a shield or a lyre, and not to use them, you would say that justice is useful; but when you want to use them, then the art of the soldier or of the musician
+
