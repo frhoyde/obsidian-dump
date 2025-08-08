@@ -43,7 +43,8 @@ So is in times of peace, when is a just man necessary? Not in a case of signific
 
 Socrates points this out because he is Steelmanning, proving my point, that apart from lending money to a just man is the only utility of justice according to Polemarchus' definition. So, Justice is only useful when money is useless, and I can lend it to someone.
 
+> Then he who is a good keeper of anything is also a good thief?
 
-
+I am not a fan of the premise of this reasoning. This inference is a “could be,” not a “must be,” in my eyes — probably because I am taking into account the moral aspect of the just man. But Socrates is trying to Steelman the argument of Polemarchus because he wants to prove that, even in peaceful times (Polemarchus was an arms manufacturer), justice is more than a political slogan like help friends and do evil to enemies. So here he is telling Polemarchus how his reasoning is self-destructive. 
 
 
