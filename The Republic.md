@@ -38,7 +38,9 @@ So is in times of peace, when is a just man necessary? Not in a case of signific
 
 >[!note]  Which in my thoughts is kind of stupid to be very honest, because this narrows down to only lending money. And that's about it.
 
-Socrates points this out because he is Steelmanning, proving my point, that apart from lending money to a just man is the only utility of justice according to Polemarchus' definition. So, Justice is only useful when money is useless, and I can lend it to someone. 
+Socrates points this out because he is Steelmanning, proving my point, that apart from lending money to a just man is the only utility of justice according to Polemarchus' definition. So, Justice is only useful when money is useless, and I can lend it to someone.
+
+
 
 
 
