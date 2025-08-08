@@ -27,6 +27,9 @@ That people of old age regardless of their background have a fear of approaching
 
 So, Polemarchus while quoting Simonides, is trying to define Justice. At first he says justice is basically paying what's due, more like a debt. The giver of debt must receive it back from the borrower. But Socrates is trying to corner this argument by presenting edge cases. A bunch of "What ifs". Now, he is Steelmanning the position of Simonides to further the discussion.
 
+##  09.08.25 ~ 01:06 
+---
+
 > Justice is the art which gives good to friends and evil to enemies
 
 > And when you want to keep a shield or a lyre, and not to use them, you would say that justice is useful; but when you want to use them, then the art of the soldier or of the musician
