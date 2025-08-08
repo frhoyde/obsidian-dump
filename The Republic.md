@@ -47,4 +47,13 @@ Socrates points this out because he is Steelmanning, proving my point, that apar
 
 I am not a fan of the premise of this reasoning. This inference is a “could be,” not a “must be,” in my eyes — probably because I am taking into account the moral aspect of the just man. But Socrates is trying to Steelman the argument of Polemarchus because he wants to prove that, even in peaceful times (Polemarchus was an arms manufacturer), justice is more than a political slogan like help friends and do evil to enemies. So here he is telling Polemarchus how his reasoning is self-destructive. 
 
+> Then if a man says that justice consists in the repayment of debts, and that good is the debt which a just man owes to his friends, and evil the debt which he owes to his enemies,–to say this is not wise; for it is not true, if, as has been clearly shown, the injuring of another can be in no case just.
+
+>[!faq] Is this a Utopian Argument?
+
+> I believe that Periander or Perdiccas or Xerxes or Ismenias the Theban, or some other rich and mighty man, who had a great opinion of his own power, was the first to say that justice is ’doing good to your friends and harm to your enemies.
+
+This further stabilizes the point on the topic of justice is not a tool, rather a moral disposition. It's not an attribute it's more of a complex virtue. So far Socrates has not defined Justice, but this basically ends the argument with Polemarchus.
+
+
 
