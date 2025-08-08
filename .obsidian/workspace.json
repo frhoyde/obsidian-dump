@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "The Republic.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,15 +178,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "485a22efb3001100",
+  "active": "6ac86a0bde700855",
   "lastOpenFiles": [
-    "6 - Main Notes/2025-08-08.md",
+    "3 - Tags/Book.md",
+    "3 - Tags/Philosophy.md",
     "The Republic.md",
+    "6 - Main Notes/2025-08-08.md",
     "5 - Templates/Source Material Entry.md",
     "5 - Templates/Source Material.md",
     "5 - Templates/Full Note.md",
-    "3 - Tags/Philosophy.md",
-    "3 - Tags/Book.md",
     "6 - Main Notes/Untitled 1.md",
     "6 - Main Notes/Untitled.md",
     "6 - Main Notes/My First Note.md",
