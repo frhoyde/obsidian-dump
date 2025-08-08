@@ -29,7 +29,16 @@ So, Polemarchus while quoting Simonides, is trying to define Justice. At first h
 
 > Justice is the art which gives good to friends and evil to enemies
 
-This dialogue pushes Polemarchus to define the "Giving what is proper" and "To Whom" part. 
-
 > And when you want to keep a shield or a lyre, and not to use them, you would say that justice is useful; but when you want to use them, then the art of the soldier or of the musician
+
+Both of these quotes are spawned from the conversation of the "Giving what is proper" and 
+"To whom that is due", but the third parameter comes to play, which is when is that necessary? 
+Is Justice only needed during war? - No.
+So is in times of peace, when is a just man necessary? Not in a case of significance of any specialty, where a skilled man would be preferable than a just man. Here Polemarchus wants to insert a financial factor to the definition. 
+
+>[!note]  Which in my thoughts is kind of stupid to be very honest, because this narrows down to only lending money. And that's about it.
+
+Socrates points this out because he is Steelmanning, proving my point, that apart from lending money to a just man is the only utility of justice according to Polemarchus' definition. So, Justice is only useful when money is useless, and I can lend it to someone. 
+
+
 
