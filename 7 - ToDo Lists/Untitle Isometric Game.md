@@ -11,9 +11,9 @@
 **Goal:** Smooth movement + camera that feels right.
 
 ### Tasks
-- [ ] Set up Unity project (URP template, input system, folder structure)
-- [ ] Implement isometric camera (angle, follow, tilt)
-- [ ] Add player movement (WASD or click-to-move)
+- [x] Set up Unity project (URP template, input system, folder structure)
+- [x] Implement isometric camera (angle, follow, tilt)
+- [x] Add player movement (WASD or click-to-move)
 - [ ] Add acceleration/deceleration for natural feel
 - [ ] Implement dash mechanic (with cooldown)
 - [ ] Create greybox arena (floor, walls using cubes)
