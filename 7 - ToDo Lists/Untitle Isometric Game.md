@@ -16,10 +16,10 @@
 - [x] Add player movement (WASD or click-to-move)
 - [ ] Add acceleration/deceleration for natural feel
 - [ ] Implement dash mechanic (with cooldown)
-- [ ] Create greybox arena (floor, walls using cubes)
+- [x] Create greybox arena (floor, walls using cubes)
 - [ ] Add basic lighting + post-processing (bloom, tone mapping)
-- [ ] Playtest & tweak movement/camera
-- [ ] Record short clip for reflection
+- [x] Playtest & tweak movement/camera
+- [x] Record short clip for reflection
 
 **Notes / Learnings:**
 > _e.g. Camera feels too low. Dash feels snappy. Maybe reduce drag._
@@ -31,7 +31,7 @@
 **Goal:** Create the feel of impact and a basic combat loop.
 
 ### Tasks
-- [ ] Add basic attack (raycast or melee hitbox)
+- [x] Add basic attack (raycast or melee hitbox)
 - [ ] Add visual feedback (hit flash, damage popup, sound)
 - [ ] Implement one ability (e.g., shockwave or dash strike)
 - [ ] Add cooldown + resource system (energy/stamina)
