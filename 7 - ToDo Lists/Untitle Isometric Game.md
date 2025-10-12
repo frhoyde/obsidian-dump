@@ -14,10 +14,9 @@
 - [x] Set up Unity project (URP template, input system, folder structure)
 - [x] Implement isometric camera (angle, follow, tilt)
 - [x] Add player movement (WASD or click-to-move)
-- [ ] Add acceleration/deceleration for natural feel
-- [ ] Implement dash mechanic (with cooldown)
+- [x] Added Selection Outline for enemy
+- [ ] Add Particle effects on shoot
 - [x] Create greybox arena (floor, walls using cubes)
-- [ ] Add basic lighting + post-processing (bloom, tone mapping)
 - [x] Playtest & tweak movement/camera
 - [x] Record short clip for reflection
 
@@ -72,6 +71,7 @@
 
 ### Tasks
 - [ ] Add hitstop or impact pause for strong attacks
+- [ ] Add basic lighting + post-processing (bloom, tone mapping)
 - [ ] Adjust movement + attack speeds for smoother flow
 - [ ] Add enemy death effect (animation/dissolve)
 - [ ] Tune AI timing, range, and damage
