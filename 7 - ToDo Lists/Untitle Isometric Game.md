@@ -35,7 +35,7 @@
 - [ ] Add visual feedback (hit flash, damage popup, sound)
 - [ ] Implement one ability (e.g., shockwave or dash strike)
 - [ ] Add cooldown + resource system (energy/stamina)
-- [ ] Create enemy dummy (chase + simple attack)
+- [x] Create enemy dummy (chase + simple attack)
 - [ ] Add player/enemy health systems
 - [ ] Add feedback: particle sparks, camera shake, sound FX
 - [ ] Playtest ability rhythm (cooldown timing, power)
