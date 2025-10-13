@@ -15,7 +15,8 @@
 - [x] Implement isometric camera (angle, follow, tilt)
 - [x] Add player movement (WASD or click-to-move)
 - [x] Added Selection Outline for enemy
-- [ ] Add Particle effects on shoot
+- [x] Add Magnets that can stick to the enemy
+- [x] Add Push / Pull magnets mechanic
 - [x] Create greybox arena (floor, walls using cubes)
 - [x] Playtest & tweak movement/camera
 - [x] Record short clip for reflection
