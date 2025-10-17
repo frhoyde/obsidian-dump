@@ -32,13 +32,15 @@
 
 ### Tasks
 - [x] Add basic attack (raycast or melee hitbox)
-- [ ] Add visual feedback (hit flash, damage popup, sound)
-- [ ] Implement one ability (e.g., shockwave or dash strike)
-- [ ] Add cooldown + resource system (energy/stamina)
 - [x] Create enemy dummy (chase + simple attack)
-- [ ] Add player/enemy health systems
-- [ ] Add feedback: particle sparks, camera shake, sound FX
-- [ ] Playtest ability rhythm (cooldown timing, power)
+- [x] Add player/enemy health systems
+- [x] Add player magnetic movements
+- [ ] Add player melee and shooting combat with feedback + particles
+- [ ] Add Ability limit + cooldown + recharge
+- [ ] Add plasma system
+- [ ] Make enemies attack player (Basic)
+- [ ] Implement Basic Gameplay loop
+- [ ] Add player dash mechanic
 - [ ] Record short combat test clip
 
 **Notes / Learnings:**
