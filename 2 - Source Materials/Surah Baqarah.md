@@ -1,4 +1,3 @@
-### Author: Allah
 ### Link: https://quran.com/2
 
 #### Tags [[Religious Scripture]]
@@ -9,3 +8,13 @@
 * Though it is a _Madani_ Surah, it follows naturally a _Makki_ Surah Al- Fatihah, which ended with the prayer: "Show us the straight way." It begins with the answer to that prayer, "This is the Book (that)...is guidance..."
 * The greater part of Al-Baqarah was revealed during the first two years of the Holy Prophet's life at Al-Madinah.
 * The verses prohibiting interest were revealed during the last period of the Holy prophet's life but have been inserted in this Surah. For the same reason, the last two verses ([284-286](https://quran.com/2/284-286)) of this Surah which were revealed at Makkah before the migration of the Holy Prophet to AI-Madinah have also been included in it.
+##  24.02.26 ~ 23:10 
+---
+
+ > Alif Laam Meem
+ 
+ These Letters are called al-huroof al-muqatta ‘ah. They appear at the beginning o f several Surahs. We are required to recite them separately and not recite "Alam"
+
+
+Some of the scholars tried to discover the wisdom behind these letters and said: These letters are mentioned – and Allaah knows best – at the beginning of soorahs which point to the miraculous nature of the Qur’aan, which implies that all mankind is unable to match it, even though it is composed of the letters that they use in their daily speech. This was the view supported by Shaykh al-Islam Ibn Taymiyah (may Allaah have mercy on him) and was approved of by Abu’l-Hajjaaj al-Mazzi (may Allaah have mercy on him). And Allaah is the Source of strength. May Allaah bless our Prophet Muhammad and his family and companions, and grant them peace. [islamqa](https://islamqa.info/en/answers/21811/the-meaning-of-al-huroof-al-muqattaah-in-the-quraan)
+ 
