@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Materials/Surah Baqarah.md",
-                "mode": "preview",
+                "file": "2 - Source Materials/Surah Insan.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Surah Baqarah"
+              "title": "Surah Insan"
             }
           }
         ]
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +190,9 @@
   },
   "active": "7594291af6d5bcc4",
   "lastOpenFiles": [
-    "2 - Source Materials/The Republic.md",
     "2 - Source Materials/Surah Baqarah.md",
+    "2 - Source Materials/Surah Insan.md",
+    "2 - Source Materials/The Republic.md",
     "2 - Source Materials/Surah Al-Ma'rij.md",
     "Game Concept Conversation.md",
     "7 - ToDo Lists/Strange Places.md",
