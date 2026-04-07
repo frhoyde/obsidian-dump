@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Materials/Surah Insan.md",
-                "mode": "source",
+                "file": "2 - Source Materials/Surah Baqarah.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Surah Insan"
+              "title": "Surah Baqarah"
+            }
+          },
+          {
+            "id": "455260d3e1f17f14",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,11 +201,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7594291af6d5bcc4",
+  "active": "455260d3e1f17f14",
   "lastOpenFiles": [
+    "2 - Source Materials/The Republic.md",
     "2 - Source Materials/Surah Baqarah.md",
     "2 - Source Materials/Surah Insan.md",
-    "2 - Source Materials/The Republic.md",
     "2 - Source Materials/Surah Al-Ma'rij.md",
     "Game Concept Conversation.md",
     "7 - ToDo Lists/Strange Places.md",
