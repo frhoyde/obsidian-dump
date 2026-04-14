@@ -23,4 +23,6 @@ This may also point towards the challenge given to the Arabs at the time. They c
 > This is the Book about which there is no doubt; in it is guidance for those who fear Allah,
 
 
+
+
 >[!note] Stating that there is no doubt implies the opposite; the opposite o f doubt is certainty, so this Book contains certain knowledge that dispels doubt. This is a useful principle to note, that when it is stated that something is not the case, that inevitably refers to the opposite.  -- Shaykh Abdur Rahman Nasir As Saadi
