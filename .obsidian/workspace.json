@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Materials/Surah Baqarah.md",
+                "file": "Surah Al Araf.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Surah Baqarah"
+              "title": "Surah Al Araf"
             }
           }
         ]
@@ -191,6 +191,7 @@
   "active": "4b281ac695d6e033",
   "lastOpenFiles": [
     "2 - Source Materials/Surah Baqarah.md",
+    "Surah Al Araf.md",
     "2 - Source Materials/The Republic.md",
     "2 - Source Materials/Surah Insan.md",
     "2 - Source Materials/Surah Al-Ma'rij.md",
