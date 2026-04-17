@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surah Al Araf.md",
+                "file": "6 - Main Notes/Al Huroofe Al Mukatta'ah.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Surah Al Araf"
+              "title": "Al Huroofe Al Mukatta'ah"
             }
           }
         ]
@@ -190,9 +190,12 @@
   },
   "active": "4b281ac695d6e033",
   "lastOpenFiles": [
-    "2 - Source Materials/Surah Baqarah.md",
     "Surah Al Araf.md",
+    "6 - Main Notes/Al Huroofe Al Mukatta'ah.md",
+    "2 - Source Materials/Surah Baqarah.md",
     "2 - Source Materials/The Republic.md",
+    "5 - Templates/Full Note.md",
+    "6 - Main Notes/Al Huroof al Mukatta'ah.md",
     "2 - Source Materials/Surah Insan.md",
     "2 - Source Materials/Surah Al-Ma'rij.md",
     "Game Concept Conversation.md",
@@ -204,7 +207,6 @@
     "6 - Main Notes/2025-08-08.md",
     "5 - Templates/Source Material Entry.md",
     "5 - Templates/Source Material.md",
-    "5 - Templates/Full Note.md",
     "6 - Main Notes/Untitled 1.md",
     "6 - Main Notes/My First Note.md",
     "conflict-files-obsidian-git.md",
