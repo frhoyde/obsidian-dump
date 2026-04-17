@@ -5,4 +5,4 @@
 # {{Title}}
 
 
-## {{References}}
+## References

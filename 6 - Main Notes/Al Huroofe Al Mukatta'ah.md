@@ -9,8 +9,9 @@
 
 
 
+A group of scholars, such as the Rightly-Guided Khaleefahs (may Allah be pleased with them), and others among the Sahaabah, Taabi’een and their followers, refrained from interpreting these aayahs. It was not narrated that the Prophet (peace and blessings of Allah be upon him) interpreted them, so it is preferable for us to say Allah knows best what they mean.
 
-
-## {{References}}
+## References
 1. https://youtu.be/6_gKg6PByOI
-2. 
+2. https://islamqa.info/en/answers/21811/the-meaning-of-al-huroof-al-muqattaah-in-the-quraan
+3. 
