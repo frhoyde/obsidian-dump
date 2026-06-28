@@ -8,4 +8,9 @@
 -  I think mostly Because I was just incredibly bored!
 - Or could be because C is kind of my root yk. It's where my journey started. It's where I wrote my first Hello world! And I remember How Excited I was! I couldn't understand what I could do with my new found ability to code, But i was so stoked to get home from school and read this PDF my friend gave me, and learn how an array works!
 - I mean God! I went to my math teacher to understand how Matrix Multiplications work, to solve a problem about multidimensional arrays. I was so obsessed with these things. 
-- So What I want to do from now on - is to be the engineer that I have always wanted to be. That starts with my first project. The TEXT EDITOR -
+- So What I want to do from now on - is to be the engineer that I have always wanted to be. That starts with my first project. The almost endangered technology - TEXT EDITOR. (I'm Kidding, Although I'm really not)
+- If we google "How to make a text editor in C" The first thing that pops up is this web page -
+   https://viewsourcecode.org/snaptoken/kilo/ and you get introduced to KILO. 
+   - https://asciinema.org/a/90r2i9bq8po03nazhqtsifksb 
+- It has the name Kilo because it has been built with only 1000 lines of Code, by this guy Salvatore Sanfilippo - Who is working on this Deepseek whatever this is - https://github.com/antirez/ds4
+- 
