@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "C Text Editor"
             }
+          },
+          {
+            "id": "501d3ee7125b6763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/KILO.C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "KILO.C"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,11 +213,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a4f9168e05330ce",
+  "active": "501d3ee7125b6763",
   "lastOpenFiles": [
+    "6 - Main Notes/C Text Editor.md",
+    "6 - Main Notes/KILO.C.md",
     "2 - Source Materials/Surah Al Araf.md",
     "6 - Main Notes/Al Huroofe Al Mukatta'ah.md",
-    "6 - Main Notes/C Text Editor.md",
     "2 - Source Materials/Surah Baqarah.md",
     "2 - Source Materials/The Republic.md",
     "5 - Templates/Full Note.md",
