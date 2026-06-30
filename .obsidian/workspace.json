@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/C.md",
+                "file": "6 - Main Notes/Terminal - Canonical Mode.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C"
+              "title": "Terminal - Canonical Mode"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "0cff5552ddfe3d50",
   "lastOpenFiles": [
-    "6 - Main Notes/Terminal - Canonical Mode.md",
     "3 - Tags/C.md",
+    "6 - Main Notes/Terminal - Canonical Mode.md",
     "6 - Main Notes/Untitled.base",
     "3 - Tags/Philosophy.md",
     "3 - Tags/Religious Scripture.md",
