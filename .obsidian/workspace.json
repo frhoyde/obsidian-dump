@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "69ba07609f1b4e0b",
+        "id": "2c79a4d008ba436b",
         "type": "tabs",
         "children": [
           {
-            "id": "dd6d5c9220f4bb12",
+            "id": "497dc3478b7a4536",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Materials/The Republic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Republic"
             }
           }
         ]
@@ -174,8 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd6d5c9220f4bb12",
+  "active": "497dc3478b7a4536",
   "lastOpenFiles": [
+    "2 - Source Materials/Surah Al Araf.md",
+    "2 - Source Materials/Surah Baqarah.md",
+    "6 - Main Notes/Religious Scripture.md",
     "5 - Templates/Full Note.md",
     "5 - Templates/Source Material.md",
     "6 - Main Notes/Terminal - Canonical Mode.md",
@@ -190,8 +207,6 @@
     "Excalidraw",
     "3 - Tags/Programming.md",
     "2 - Source Materials/The Republic.md",
-    "2 - Source Materials/Surah Baqarah.md",
-    "2 - Source Materials/Surah Al Araf.md",
     "6 - Main Notes/Al Huroofe Al Mukatta'ah.md",
     "6 - Main Notes/C Text Editor.md",
     "6 - Main Notes/KILO.C.md",

@@ -1,7 +1,7 @@
 
 ### Link:  
 
-#### Tags 
+#### Tags  #Scripture #Religion #Quran
 ##  18.04.26 ~ 00:33 
 ---
 

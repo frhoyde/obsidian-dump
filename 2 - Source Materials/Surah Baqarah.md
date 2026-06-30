@@ -1,6 +1,6 @@
 ### Link: https://quran.com/2
 
-#### Tags [[Religious Scripture]]
+#### Tags  #Scripture #Religion #Quran
 
 ##  12.09.25 ~ 05:49 
 ---
