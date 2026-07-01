@@ -1,6 +1,10 @@
 ##  30.06.26 ~ 21:57 
 ---
 
-	I have created a make file of one line to compile this thing. Apparently C17 still has support for c99. Although I thought about switching to -std=c17 (I don't know if it would've worked or not) but I decided to keep going with c99 because it still is supported by this gcc version 13.3
+>[!note] I have created a make file of one line to compile this thing. Apparently C17 still has support for c99. Although I thought about switching to -std=c17 (I don't know if it would've worked or not) but I decided to keep going with c99 because it still is supported by this gcc version 13.3
 
 - read() reads 1 character at a time. but in "buffer"
+- [[Terminal - Canonical Mode]] is not good for our task. We need to enter raw mode for this for smooter editing capabilities.
+
+>[!note] I think I was kind of asking good questions. One of them was, when we're reading and setting terminal attributes, why are we using pointers or the pass by reference for the termios struct? I even wondered,  I could theoretically use return values and use the normal pass by value feature. It's because tcgetattr and tcsetattr also return an integer, 0 or 1 based on the success or failure of the operation.
+

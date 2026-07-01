@@ -11,10 +11,24 @@
             "id": "c430345e3c2a9cd3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/KILO.C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "KILO.C"
             }
           }
         ]
@@ -174,11 +188,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "485a22efb3001100",
+  "active": "c430345e3c2a9cd3",
   "lastOpenFiles": [
+    "2 - Source Materials/The Republic.md",
+    "6 - Main Notes/KILO.C.md",
     "6 - Main Notes/Book.md",
     "6 - Main Notes/Religious Scripture.md",
-    "2 - Source Materials/The Republic.md",
     "2 - Source Materials/Surah Al Araf.md",
     "2 - Source Materials/Surah Baqarah.md",
     "5 - Templates/Full Note.md",
@@ -195,7 +210,6 @@
     "3 - Tags/Programming.md",
     "6 - Main Notes/Al Huroofe Al Mukatta'ah.md",
     "6 - Main Notes/C Text Editor.md",
-    "6 - Main Notes/KILO.C.md",
     "6 - Main Notes/Al Huroof al Mukatta'ah.md",
     "2 - Source Materials/Surah Insan.md",
     "2 - Source Materials/Surah Al-Ma'rij.md",
