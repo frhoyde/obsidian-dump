@@ -16,6 +16,8 @@
 - all FDs have the same interface - read(), write(), close()
 > [!note] TCSAFLUSH is responsible so that button mashers can mash buttons freely. So, whenever we're starting raw mode, and while starting, if we mash buttons, those input keystrokes are "flushed"
 
->[!note] Also We are disabling ECHO because we are going to manage that manually, giving ECHO the freedom to dump characters anywhere can cause issues to our manual way.
+>[!note] Also We are disabling ECHO because we are going to manage that manually, giving ECHO the freedom to dump characters anywhere can cause issues to our manual way. It might double render as well
+
+
 
 
