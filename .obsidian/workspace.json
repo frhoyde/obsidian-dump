@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "KILO.C"
             }
+          },
+          {
+            "id": "454c100807fb89ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Terminal - Canonical Mode.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Terminal - Canonical Mode"
+            }
           }
         ]
       }
@@ -190,15 +214,15 @@
   },
   "active": "c430345e3c2a9cd3",
   "lastOpenFiles": [
-    "2 - Source Materials/The Republic.md",
+    "6 - Main Notes/Terminal - Canonical Mode.md",
     "6 - Main Notes/KILO.C.md",
+    "2 - Source Materials/The Republic.md",
     "6 - Main Notes/Book.md",
     "6 - Main Notes/Religious Scripture.md",
     "2 - Source Materials/Surah Al Araf.md",
     "2 - Source Materials/Surah Baqarah.md",
     "5 - Templates/Full Note.md",
     "5 - Templates/Source Material.md",
-    "6 - Main Notes/Terminal - Canonical Mode.md",
     "3 - Tags/C.md",
     "6 - Main Notes/Untitled.base",
     "3 - Tags/Philosophy.md",
