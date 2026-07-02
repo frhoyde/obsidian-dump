@@ -14,5 +14,5 @@
 - STDOUT - 1
 - STDERR - 2
 - all FDs have the same interface - read(), write(), close()
-> [!note] TCSAFLUSH is kind of confusing
+> [!note] TCSAFLUSH is responsible so that button mashers can mash buttons freely. So, whenever we're starting raw mode, and while starting, if we mash buttons, those input keystrokes are "flushed"
 - 
