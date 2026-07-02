@@ -8,3 +8,10 @@
 
 >[!note] I think I was kind of asking good questions. One of them was, when we're reading and setting terminal attributes, why are we using pointers or the pass by reference for the termios struct? I even wondered,  I could theoretically use return values and use the normal pass by value feature. It's because tcgetattr and tcsetattr also return an integer, 0 or 1 based on the success or failure of the operation.
 
+>[!note] So what is a file descriptor? A file descriptor is basically specifying a channel, a fixed and known slot that the process agrees to treat.
+
+- STDIN - 0
+- STDOUT - 1
+- STDERR - 2
+- all FDs have the same interface - read(), write(), close()
+- 
