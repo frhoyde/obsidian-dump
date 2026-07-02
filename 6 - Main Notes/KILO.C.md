@@ -14,4 +14,5 @@
 - STDOUT - 1
 - STDERR - 2
 - all FDs have the same interface - read(), write(), close()
+> [!note] TCSAFLUSH is kind of confusing
 - 
