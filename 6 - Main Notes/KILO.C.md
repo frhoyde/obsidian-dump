@@ -19,7 +19,7 @@
 
 >[!note] Also We are disabling ECHO because we are going to manage that manually, giving ECHO the freedom to dump characters anywhere can cause issues to our manual way. It might double render as well
 
->[!note] The ICANON flag holds all the keystrokes in an internal line buffer. It only gives this input over to read() once the ENTER key is pressed. Turning it off gives us the flexibility to read input character by character or byte by byte instead of going line by line.
+>[!note] The ICANON flag holds all the keystrokes in an internal line buffer. It only gives this input over to read() once the ENTER key is pressed. Turning it off gives us the flexibility to read input character by character or byte by byte instead of going line by line.  Also Something to know is, before I added the ICANON pressing q will not quit the program. Because it waits for the ENTER. After adding the flag, only pressing q quits the program. 
 >
 
 
