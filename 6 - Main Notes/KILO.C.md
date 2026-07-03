@@ -26,3 +26,7 @@
 
 
 
+![[Pasted image 20260703122902.png]] 
+
+>[!note] I Don't Understand this. 
+
