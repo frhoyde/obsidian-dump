@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "542443629a708b2e",
+        "id": "617a797703c2eb96",
         "type": "tabs",
         "children": [
           {
-            "id": "c430345e3c2a9cd3",
+            "id": "470b61127eaa53f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/KILO.C.md",
+                "file": "5 - Templates/ToDo List Entry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KILO.C"
+              "title": "ToDo List Entry"
             }
           },
           {
-            "id": "454c100807fb89ab",
+            "id": "02bb32c3705b0b7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Terminal - Canonical Mode.md",
+                "file": "7 - ToDo Lists/COOK UP COLONY.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Terminal - Canonical Mode"
+              "title": "COOK UP COLONY"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,14 +210,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c430345e3c2a9cd3",
+  "active": "02bb32c3705b0b7e",
   "lastOpenFiles": [
+    "5 - Templates/ToDo List Entry.md",
+    "7 - ToDo Lists/COOK UP COLONY.md",
+    "5 - Templates/ToDo List Entry.md.tmp.11836.09974eddcf78",
     "Pasted image 20260703122902.png",
-    "6 - Main Notes/Terminal - Canonical Mode.md",
     "6 - Main Notes/KILO.C.md",
+    "6 - Main Notes/Terminal - Canonical Mode.md",
     "2 - Source Materials/The Republic.md",
     "6 - Main Notes/Book.md",
     "6 - Main Notes/Religious Scripture.md",
@@ -242,14 +247,12 @@
     "7 - ToDo Lists/Strange Places.md",
     "7 - ToDo Lists/Untitle Isometric Game.md",
     "7 - ToDo Lists",
-    "6 - Main Notes/2025-08-08.md",
     "6 - Main Notes",
     "5 - Templates",
     "4 - Indexes",
     "3 - Tags",
     "2 - Source Materials",
     "1 - Rough Notes",
-    "BillBonton",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
